@@ -1,1 +1,2 @@
 Start
+Installed PHP/XAMPP
