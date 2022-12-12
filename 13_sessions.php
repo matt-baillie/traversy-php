@@ -5,6 +5,8 @@
   Sessions are a way to store information (in variables) to be used across multiple pages.
   Unlike cookies, sessions are stored on the server.
 */
+// whenever we use session values we have to use session_start()
+session_start();
 if (isset($_POST['submit'])) {
 
 
